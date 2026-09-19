@@ -1,0 +1,7 @@
+{
+  "name": "Solara Club&Events",
+  "description": "Landing page institucional moderna e futurista para o Solara Club&Events no Setor Lysan, Guaraí, TO. Espaço completo com piscina, área gourmet, estacionamento e capacidade para 300 convidados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
